@@ -10,7 +10,6 @@
 [![Github](https://img.shields.io/twitter/url?color=black&label=steam&logo=steam&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://steamcommunity.com/id/bye-bye/)
 
 </div>
-<div>&nbsp;</div>
 <h2 align="center">Artist | Game Designer | Web Developer</h2>
 <div>&nbsp;</div>
 Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (most indies), anime & animation in general. I enjoy so much to participate in gamejams and <b>make games</b>, because you can show a part of yourself to others. Making games that change people is my goal 🎉.

@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/twitter/url?color=black&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://twitter.com/intent/user?screen_name=byebye_sama)
 [![Instagram](https://img.shields.io/twitter/url?color=black&label=instagram&logo=instagram&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://www.instagram.com/follow/byebye.sama)
 [![Github](https://img.shields.io/twitter/url?color=black&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://www.linkedin.com/in/joaquin-byebye/)
-[![Github](https://img.shields.io/twitter/url?color=black&label=steam&logo=itchdotio&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.itch.io%2Fbyebyesama)](https://byebyesama.itch.io/)
+[![Github](https://img.shields.io/twitter/url?color=black&label=itch.io&logo=itchdotio&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.itch.io%2Fbyebyesama)](https://byebyesama.itch.io/)
 [![Github](https://img.shields.io/twitter/url?color=black&label=steam&logo=steam&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://steamcommunity.com/id/bye-bye/)
 
 </div>
@@ -28,7 +28,7 @@ Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (m
 
 - I was technical artist of <a href="https://twitter.com/Play_Arrog" target="_blank"><b>Arrog</b></a> a game by <a href="https://www.facebook.com/pages/category/Company/Hermanos-Magia-345199692249813/" target="_blank"><b>Hermanos Magia</b></a>. and <a href="http://www.leapgs.com/" target="_blank"><b>LEAP</b></a>. You can play on: <a href="https://store.steampowered.com/app/1185700/Arrog/" target="_blank"><b>Steam</b></a>, <a href="https://store.playstation.com/en-us/concept/10002016/" target="_blank"><b>Play Station</b></a>, <a href="https://www.nintendo.com/games/detail/arrog-switch/" target="_blank"><b>Nintendo Switch</b></a>, <a href="https://play.google.com/store/apps/details?id=com.leapgs.arrog" target="_blank"><b>Android</b></a> and <a href="https://apps.apple.com/us/app/arrog/id1499642327" target="_blank"><b>iOS</b></a>.
 
-- You can see some games from jams on my <a href="https://globalgamejam.org/users/joaquin-concha" target="_blank"><b>Global Game Jam</b></a> profile or on my personal <a href="https://byebyesama.itch.io/" target="_blank"><b>Itch.io</b></a>.
+- You can see some games from jams on my <a href="https://globalgamejam.org/users/joaquin-concha" target="_blank"><b>Global Game Jam</b></a> profile or on my personal <a href="https://byebyesama.itch.io/" target="_blank"><b>Itch.io</b></a> profile.
 
 <b>Web 💻:</b>
 

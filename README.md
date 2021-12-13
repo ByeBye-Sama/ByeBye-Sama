@@ -50,6 +50,7 @@ Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (m
 <img src="https://media.giphy.com/media/LNqA0mLCwIEN7u57SH/giphy.gif" width="200" />
 </div>
 
+<br>
 <div align="center">
-- Check my stats <a href="https://github.com/ByeBye-Sama/stats" target="_blank"><b>HERE</b></a>.
+Check my stats <a href="https://github.com/ByeBye-Sama/stats" target="_blank"><b>HERE</b></a>.
 </div>

@@ -52,5 +52,5 @@ Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (m
 
 <br>
 <div align="center">
-Check my stats <a href="https://github.com/ByeBye-Sama/stats" target="_blank"><b>HERE</b></a>.
+You can check my stats <a href="https://github.com/ByeBye-Sama/stats" target="_blank"><b>HERE</b></a>.
 </div>

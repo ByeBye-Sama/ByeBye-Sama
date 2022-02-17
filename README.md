@@ -33,7 +33,7 @@ Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (m
 <b>Web 💻:</b>
 
 - I build <a href="https://monochromatic.surge.sh/" target="_blank"><b>Monochromatic UI</b></a> a <i>one color based</i> component library for React, which also has also gradient styles. Repo <a href="https://github.com/ByeBye-Sama/monochromatic" target="_blank"><b>here</b></a>.
-- Love to build project starters you can use my <a href="https://github.com/kaypacha/next-boilerplate" target="_blank"><b>nextjs-boilerplate</b></a> or <a href="https://github.com/kaypacha/create-react-boilerplate" target="_blank"><b>create-react-app-boilerplate</b></a>
+- Love to build project starters you can use my <a href="https://github.com/kaypacha/next-boilerplate" target="_blank"><b>nextjs-boilerplate</b></a> or <a href="https://github.com/kaypacha/create-react-boilerplate" target="_blank"><b>create-react-app-boilerplate</b></a> to start your project.
 
 <div align="center">
 <img src="https://media.giphy.com/media/UT4gMRPCLRx3JUBFu7/giphy.gif" width="220" />

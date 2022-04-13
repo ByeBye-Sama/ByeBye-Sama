@@ -8,7 +8,8 @@
 [![Instagram](https://img.shields.io/twitter/url?color=black&label=instagram&logo=instagram&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://www.instagram.com/follow/byebye.sama)
 [![Github](https://img.shields.io/twitter/url?color=black&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://www.linkedin.com/in/joaquin-byebye/)
 [![Github](https://img.shields.io/twitter/url?color=black&label=itch.io&logo=itchdotio&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.itch.io%2Fbyebyesama)](https://byebyesama.itch.io/)
-[![Github](https://img.shields.io/twitter/url?color=black&label=steam&logo=steam&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://steamcommunity.com/id/bye-bye/)
+[![Codepen](https://img.shields.io/twitter/url?color=black&label=codepen&logo=codepen&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.itch.io%2Fbyebyesama)](https://codepen.io/byebye-sama)
+[![Steam](https://img.shields.io/twitter/url?color=black&label=steam&logo=steam&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://steamcommunity.com/id/bye-bye/)
 
 </div>
 <h2 align="center">Artist | Game Designer | Web Developer</h2>

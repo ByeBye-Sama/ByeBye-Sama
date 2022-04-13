@@ -13,7 +13,8 @@
 </div>
 <h2 align="center">Artist | Game Designer | Web Developer</h2>
 <div>&nbsp;</div>
-Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (most indies), anime & animation in general. I enjoy so much to participate in gamejams and <b>make games</b>, because you can show a part of yourself to others. Making games that change people is my goal 🎉.
+Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (most indies), anime & animation in general. I enjoy so much to participate in gamejams and <b>make games</b>, because you can show a part of yourself to others. Making games that change people is my goal 🎉. Currently working as UX Developer at <a href="https://www.linkedin.com/company/making-sense-llc/" target="_blank"><b>Making Sense</b></a>. Creative director at <a href="https://kaypachastudio.com/" target="_blank"><b>Kay Pacha Studio</b></a>.
+
 <div>&nbsp;</div>
 <h2 align="center">Projects</h2>
 <div>&nbsp;</div>

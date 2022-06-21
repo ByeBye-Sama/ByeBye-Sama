@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/LT0xTQDSnUqShQoWzY/giphy.gif" />
 </div>
-  
+
 <div align="center">
 
 [![Twitter](https://img.shields.io/twitter/url?color=black&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://twitter.com/intent/user?screen_name=byebye_sama)
@@ -11,7 +11,11 @@
 [![Codepen](https://img.shields.io/twitter/url?color=black&label=codepen&logo=codepen&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.itch.io%2Fbyebyesama)](https://codepen.io/byebye-sama)
 
 </div>
+<div align="center">
+You can check my stats <a href="https://github.com/ByeBye-Sama/stats" target="_blank"><b>HERE</b></a>
+</div>
 <h2 align="center">Artist | Game Designer | Web Developer</h2>
+
 <div>&nbsp;</div>
 Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (most indies), anime & animation in general. I enjoy so much to participate in gamejams and <b>make games</b>, because you can show a part of yourself to others. Making games that change people is my goal 🎉. Currently working as UX Developer at <a href="https://www.linkedin.com/company/making-sense-llc/" target="_blank"><b>Making Sense</b></a>. Creative director at <a href="https://kaypachastudio.com/" target="_blank"><b>Kay Pacha Studio</b></a>.
 
@@ -50,9 +54,4 @@ Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (m
 
 <div align="center">
 <img src="https://media.giphy.com/media/LNqA0mLCwIEN7u57SH/giphy.gif" width="200" />
-</div>
-
-<br>
-<div align="center">
-You can check my stats <a href="https://github.com/ByeBye-Sama/stats" target="_blank"><b>HERE</b></a>.
 </div>

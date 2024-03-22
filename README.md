@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/twitter/url?color=black&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://twitter.com/intent/user?screen_name=byebye_sama)
 [![Instagram](https://img.shields.io/twitter/url?color=black&label=instagram&logo=instagram&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://www.instagram.com/follow/byebye.sama)
 [![Github](https://img.shields.io/twitter/url?color=black&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbyebye.sama)](https://www.linkedin.com/in/joaquin-byebye/)
-[![Github](https://img.shields.io/twitter/url?color=black&label=itch.io&logo=itchdotio&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.itch.io%2Fbyebyesama)](https://byebyesama.itch.io/)
+[![Itchio](https://img.shields.io/twitter/url?color=black&label=itch.io&logo=itchdotio&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.itch.io%2Fbyebyesama)](https://byebyesama.itch.io/)
 [![Codepen](https://img.shields.io/twitter/url?color=black&label=codepen&logo=codepen&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.itch.io%2Fbyebyesama)](https://codepen.io/byebye-sama)
 
 </div>
@@ -29,16 +29,16 @@ Sup! 👋 I'm <b>Joaquin</b> an artist and dev from <b>Peru</b>. I love games (m
 
 <b>Games 🎮:</b>
 
-- Most of my games are under KayPacha signature you can follow our social media: <a href="https://www.facebook.com/kaypachagames" target="_blank"><b>Facebook</b></a>, <a href="https://www.instagram.com/kaypachagames/" target="_blank"><b>Instagram</b></a>, <a href="https://twitter.com/kaypachagames" target="_blank"><b>Twitter</b></a>, <a href="https://kaypacha.itch.io/" target="_blank"><b>Itch.io</b></a>, <a href="https://kaypacha.newgrounds.com/" target="_blank"><b>NewGrounds</b></a>.
+- Most of my games are on my personal <a href="https://byebyesama.itch.io/" target="_blank"><b>Itch.io</b></a> profile, also they are under KayPacha signature, where you can follow us to know more on: <a href="https://www.instagram.com/kaypachagames/" target="_blank"><b>Instagram</b></a>, <a href="https://twitter.com/kaypachagames" target="_blank"><b>Twitter</b></a>, <a href="https://kaypacha.itch.io/" target="_blank"><b>Itch.io</b></a>, <a href="https://kaypacha.newgrounds.com/" target="_blank"><b>NewGrounds</b></a>.
 
 - I was technical artist of <a href="https://twitter.com/Play_Arrog" target="_blank"><b>Arrog</b></a> a game by <a href="https://www.facebook.com/pages/category/Company/Hermanos-Magia-345199692249813/" target="_blank"><b>Hermanos Magia</b></a>. and <a href="http://www.leapgs.com/" target="_blank"><b>LEAP</b></a>. You can play on: <a href="https://store.steampowered.com/app/1185700/Arrog/" target="_blank"><b>Steam</b></a>, <a href="https://store.playstation.com/en-us/concept/10002016/" target="_blank"><b>Play Station</b></a>, <a href="https://www.nintendo.com/games/detail/arrog-switch/" target="_blank"><b>Nintendo Switch</b></a>, <a href="https://play.google.com/store/apps/details?id=com.leapgs.arrog" target="_blank"><b>Android</b></a> and <a href="https://apps.apple.com/us/app/arrog/id1499642327" target="_blank"><b>iOS</b></a>.
 
-- You can see some games from jams on my <a href="https://globalgamejam.org/users/joaquin-concha" target="_blank"><b>Global Game Jam</b></a> profile or on my personal <a href="https://byebyesama.itch.io/" target="_blank"><b>Itch.io</b></a> profile.
+- You can see some games from jams on my <a href="https://globalgamejam.org/users/joaquin-concha" target="_blank"><b>Global Game Jam</b></a> profile or on the <a href="https://v3.globalgamejam.org/users/joaquin-concha" target="_blank"><b>old one</b></a>.
 
 <b>Web 💻:</b>
 
-- I build <a href="https://monochromatic.surge.sh/" target="_blank"><b>Monochromatic UI</b></a> a <i>one color based</i> component library for React, which also has also gradient styles. Repo <a href="https://github.com/ByeBye-Sama/monochromatic" target="_blank"><b>here</b></a>.
-- Love to build project starters you can use my <a href="https://github.com/kaypacha/next-boilerplate" target="_blank"><b>nextjs-boilerplate</b></a> or <a href="https://github.com/kaypacha/create-react-boilerplate" target="_blank"><b>create-react-app-boilerplate</b></a> to start your project.
+- I build <a href="https://monochromatic.surge.sh/" target="_blank"><b>Monochromatic UI</b></a> a <i>one color-based</i> component library for React, which also has gradient styles. Repo <a href="https://github.com/ByeBye-Sama/monochromatic" target="_blank"><b>here</b></a>.
+- Love to build project starters you can use my <a href="https://github.com/kaypacha/next-boilerplate" target="_blank"><b>nextjs-boilerplate</b></a> or <a href="https://github.com/kaypacha/next-typescript-template" target="_blank"><b>nextjs-typescript-template</b></a> to start your project.
 
 <div align="center">
 <img src="https://media.giphy.com/media/UT4gMRPCLRx3JUBFu7/giphy.gif" width="220" />
